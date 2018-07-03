@@ -22,9 +22,12 @@ for usage examples.
 
 Compiling
 ---------
-To build a local fat jar, run:
+To build a local fat jar, run either of:
 ```
 mvn clean package
+```
+```
+gradle build
 ```
 
 Dependency Information
